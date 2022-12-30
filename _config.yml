@@ -12,11 +12,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 repository: test-site2/vladimir-nikitin.github.io
 
 # Build settings
-#theme: minima
+theme: minima
 #theme: jekyll-theme-minimal
 #remote_theme: pages-themes/minimal@v0.2.0
 
-theme: just-the-docs
+#theme: just-the-docs
 
 plugins:
   - jekyll-feed
