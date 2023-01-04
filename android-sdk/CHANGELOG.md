@@ -1,3 +1,10 @@
+---
+layout: default
+title: Changelog
+parent: Android SDK
+nav_order: 60
+---
+
 # 3.0.3 (2022-10-18)
 
 ### Features
