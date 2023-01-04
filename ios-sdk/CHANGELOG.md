@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 parent: iOS SDK
-nav_order: 60
+nav_order: 160
 ---
 
 
