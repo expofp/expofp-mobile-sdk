@@ -5,6 +5,17 @@ parent: Android SDK
 nav_order: 60
 ---
 
+# 3.0.6 (2023-01-27)
+
+### BREAKING CHANGES
+
+* Updated CrowdConnected location provider package to version 1.3.4
+* Changed target version of Android SDK to 33
+
+### IMPROVEMENTS
+
+* Improved process of caching files required for offline mode
+
 # 3.0.3 (2022-10-18)
 
 ### Features
