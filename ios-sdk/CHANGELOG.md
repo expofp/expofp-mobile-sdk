@@ -5,6 +5,11 @@ parent: iOS SDK
 nav_order: 160
 ---
 
+# 3.0.8 (2023-02-08)
+
+### Improvements
+
+* Optimized file caching process.
 
 # 3.0.5 (2022-10-20)
 
