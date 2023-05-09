@@ -5,6 +5,11 @@ parent: Android SDK
 nav_order: 60
 ---
 
+# 4.0.2 (2023-05-09)
+
+* BREAKING CHANGE: Added onExhibitorCustomButtonClick event.
+* BREAKING CHANGE: Added onDetails event.
+
 # 3.0.6 (2023-01-27)
 
 ### BREAKING CHANGES

@@ -7,12 +7,11 @@ nav_order: 160
 
 # 4.0.2 (2023-05-09)
 
-BREAKING CHANGE: To use the UIKit framework, the UIFplanView component was made. For SwiftUI it is better to use FplanView.
-BREAKING CHANGE: The buildRoute method has been renamed to selectRoute.
-BREAKING CHANGE: An 'id' parameter has been added to the onBoothClick event.
-
-feat(event)!: Added onDetails event.
-feat(event)!: Added onExhibitorCustomButtonClick event.
+* BREAKING CHANGE: To use the UIKit framework, the UIFplanView component was made. For SwiftUI it is better to use FplanView.
+* BREAKING CHANGE: The buildRoute method has been renamed to selectRoute.
+* BREAKING CHANGE: An 'id' parameter has been added to the onBoothClick event.
+* BREAKING CHANGE: Added onDetails event.
+* BREAKING CHANGE: Added onExhibitorCustomButtonClick event.
 
 # 3.0.8 (2023-02-08)
 
