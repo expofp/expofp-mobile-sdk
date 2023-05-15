@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 parent: iOS SDK
-nav_order: 160
+nav_order: 199
 ---
 
 # 4.0.2 (2023-05-09)

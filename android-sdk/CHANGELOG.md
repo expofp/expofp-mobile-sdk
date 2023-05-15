@@ -2,8 +2,11 @@
 layout: default
 title: Changelog
 parent: Android SDK
-nav_order: 60
+nav_order: 99
 ---
+# 4.0.2 (2023-05-15)
+
+fix: URL handler, for addresses with an unspecified 'https://' scheme
 
 # 4.0.1 (2023-05-11)
 
