@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.0.7 (2023-06-22)
+
+### Improvements
+
+* Package ExpoFpIndoorAtlas: in IndoorAtlasProvider provider added the ability to transfer the floor number along with the coordinates.
+
 # 4.0.2 (2023-05-09)
 
 * BREAKING CHANGE: To use the UIKit framework, the UIFplanView component was made. For SwiftUI it is better to use FplanView.
