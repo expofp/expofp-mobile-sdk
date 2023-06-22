@@ -4,6 +4,12 @@ title: Changelog
 parent: Android SDK
 nav_order: 99
 ---
+# 4.0.5 (2023-06-20)
+
+### IMPROVEMENTS
+
+* Package com.expofp.indooratlas: in IndoorAtlasProvider provider added the ability to transfer the floor number along with the coordinates.
+
 # 4.0.2 (2023-05-15)
 
 fix: URL handler, for addresses with an unspecified 'https://' scheme
