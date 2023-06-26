@@ -4,6 +4,13 @@ title: Changelog
 parent: Android SDK
 nav_order: 99
 ---
+
+# 4.1.2 (2023-06-26)
+
+* BREAKING CHANGE: Added 'onFpConfigureError' event.
+* BREAKING CHANGE: Added 'FplanView.openZip' method.
+* BREAKING CHANGE: Added 'FplanView.openZipFromAssets' method.
+
 # 4.0.5 (2023-06-20)
 
 ### IMPROVEMENTS
