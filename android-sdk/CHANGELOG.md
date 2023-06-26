@@ -5,7 +5,7 @@ parent: Android SDK
 nav_order: 99
 ---
 
-# 4.1.2 (2023-06-26)
+# 4.1.3 (2023-06-26)
 
 * BREAKING CHANGE: Added 'onFpConfigureError' event.
 * BREAKING CHANGE: Added 'FplanView.openZip' method.
