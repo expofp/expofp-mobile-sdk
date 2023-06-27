@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.1.1 (2023-06-27)
+
+* BREAKING CHANGE: Added 'setOnFpErrorCallback' method in UIFplanView.
+* BREAKING CHANGE: Added 'onFpError' extension in FplanView.
+* BREAKING CHANGE: Added 'openZip' method.
+
 # 4.0.7 (2023-06-22)
 
 ### Improvements
