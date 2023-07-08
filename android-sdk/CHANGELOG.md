@@ -5,7 +5,7 @@ parent: Android SDK
 nav_order: 99
 ---
 
-# 4.1.5 (2023-07-08)
+# 4.1.6 (2023-07-08)
 
 * fix: Fixed a bug that occurred when switching floors.
 
