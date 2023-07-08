@@ -5,6 +5,10 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.1.5 (2023-07-08)
+
+* fix: Fixed a bug that occurred when switching floors.
+
 # 4.1.1 (2023-06-27)
 
 * BREAKING CHANGE: Added 'setOnFpErrorCallback' method in UIFplanView.

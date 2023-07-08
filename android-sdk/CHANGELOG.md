@@ -5,6 +5,10 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.1.5 (2023-07-08)
+
+* fix: Fixed a bug that occurred when switching floors.
+
 # 4.1.3 (2023-06-26)
 
 * BREAKING CHANGE: Added 'onFpConfigureError' event.
