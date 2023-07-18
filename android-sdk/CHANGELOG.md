@@ -17,9 +17,11 @@ nav_order: 99
 
 # 4.1.3 (2023-06-26)
 
-* BREAKING CHANGE: Added 'onFpConfigureError' event.
-* BREAKING CHANGE: Added 'FplanView.openZip' method.
-* BREAKING CHANGE: Added 'FplanView.openZipFromAssets' method.
+### BREAKING CHANGES
+
+* Added 'onFpConfigureError' event.
+* Added 'FplanView.openZip' method.
+* Added 'FplanView.openZipFromAssets' method.
 
 # 4.0.5 (2023-06-20)
 
@@ -33,9 +35,11 @@ nav_order: 99
 
 # 4.0.1 (2023-05-11)
 
-* BREAKING CHANGE: Added onExhibitorCustomButtonClick event.
-* BREAKING CHANGE: Added onDetails event.
-* BREAKING CHANGE: An 'id' parameter has been added to the onBoothClick event.
+### BREAKING CHANGES
+
+* Added onExhibitorCustomButtonClick event.
+* Added onDetails event.
+* An 'id' parameter has been added to the onBoothClick event.
 
 # 3.0.6 (2023-01-27)
 
