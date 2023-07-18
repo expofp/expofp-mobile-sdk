@@ -23,7 +23,7 @@ nav_order: 99
 
 # 4.0.5 (2023-06-20)
 
-### IMPROVEMENTS
+### Improvements
 
 * Package com.expofp.indooratlas: in IndoorAtlasProvider provider added the ability to transfer the floor number along with the coordinates.
 
@@ -44,7 +44,7 @@ nav_order: 99
 * Updated CrowdConnected location provider package to version 1.3.4
 * Changed target version of Android SDK to 33
 
-### IMPROVEMENTS
+### Improvements
 
 * Improved process of caching files required for offline mode
 
