@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.2.0 (2023-07-18)
+
+### Improvements
+
+* Integration with Festivals has been added.
+
 # 4.1.6 (2023-07-08)
 
 * fix: Fixed a bug that occurred when switching floors.
