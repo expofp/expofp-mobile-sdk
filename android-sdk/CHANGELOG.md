@@ -5,19 +5,27 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.2.0 (2023-07-18)
+
+### Improvements
+
+* Integration with Festivals has been added.
+
 # 4.1.6 (2023-07-08)
 
 * fix: Fixed a bug that occurred when switching floors.
 
 # 4.1.3 (2023-06-26)
 
-* BREAKING CHANGE: Added 'onFpConfigureError' event.
-* BREAKING CHANGE: Added 'FplanView.openZip' method.
-* BREAKING CHANGE: Added 'FplanView.openZipFromAssets' method.
+### BREAKING CHANGES
+
+* Added 'onFpConfigureError' event.
+* Added 'FplanView.openZip' method.
+* Added 'FplanView.openZipFromAssets' method.
 
 # 4.0.5 (2023-06-20)
 
-### IMPROVEMENTS
+### Improvements
 
 * Package com.expofp.indooratlas: in IndoorAtlasProvider provider added the ability to transfer the floor number along with the coordinates.
 
@@ -27,9 +35,11 @@ nav_order: 99
 
 # 4.0.1 (2023-05-11)
 
-* BREAKING CHANGE: Added onExhibitorCustomButtonClick event.
-* BREAKING CHANGE: Added onDetails event.
-* BREAKING CHANGE: An 'id' parameter has been added to the onBoothClick event.
+### BREAKING CHANGES
+
+* Added onExhibitorCustomButtonClick event.
+* Added onDetails event.
+* An 'id' parameter has been added to the onBoothClick event.
 
 # 3.0.6 (2023-01-27)
 
@@ -38,7 +48,7 @@ nav_order: 99
 * Updated CrowdConnected location provider package to version 1.3.4
 * Changed target version of Android SDK to 33
 
-### IMPROVEMENTS
+### Improvements
 
 * Improved process of caching files required for offline mode
 

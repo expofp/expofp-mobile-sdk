@@ -5,15 +5,23 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.2.0 (2023-07-18)
+
+### Improvements
+
+* Integration with Festivals has been added.
+
 # 4.1.5 (2023-07-08)
 
 * fix: Fixed a bug that occurred when switching floors.
 
 # 4.1.1 (2023-06-27)
 
-* BREAKING CHANGE: Added 'setOnFpErrorCallback' method in UIFplanView.
-* BREAKING CHANGE: Added 'onFpError' extension in FplanView.
-* BREAKING CHANGE: Added 'openZip' method.
+### BREAKING CHANGES
+
+* Added 'setOnFpErrorCallback' method in UIFplanView.
+* Added 'onFpError' extension in FplanView.
+* Added 'openZip' method.
 
 # 4.0.7 (2023-06-22)
 
@@ -23,11 +31,13 @@ nav_order: 199
 
 # 4.0.2 (2023-05-09)
 
-* BREAKING CHANGE: To use the UIKit framework, the UIFplanView component was made. For SwiftUI it is better to use FplanView.
-* BREAKING CHANGE: The buildRoute method has been renamed to selectRoute.
-* BREAKING CHANGE: An 'id' parameter has been added to the onBoothClick event.
-* BREAKING CHANGE: Added onDetails event.
-* BREAKING CHANGE: Added onExhibitorCustomButtonClick event.
+### BREAKING CHANGES
+
+* To use the UIKit framework, the UIFplanView component was made. For SwiftUI it is better to use FplanView.
+* The buildRoute method has been renamed to selectRoute.
+* An 'id' parameter has been added to the onBoothClick event.
+* Added onDetails event.
+* Added onExhibitorCustomButtonClick event.
 
 # 3.0.8 (2023-02-08)
 
