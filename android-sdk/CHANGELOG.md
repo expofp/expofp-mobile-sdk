@@ -4,6 +4,11 @@ title: Changelog
 parent: Android SDK
 nav_order: 99
 ---
+# 4.2.1 (2023-07-21)
+
+### Improvements
+
+* Added the ability to focus on the current location when opening the map.
 
 # 4.2.0 (2023-07-18)
 
