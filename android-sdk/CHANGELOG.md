@@ -9,7 +9,7 @@ nav_order: 99
 
 ### Improvements
 
-* Added the ability to specify the path to the archive with the offline version of the plan to the init() method. The data archive will be   loaded if the Internet connection is poor or absent.
+* Added the ability to specify the path to the archive with the offline version of the plan to the init() method. This archive will be       loaded in case of poor or no internet connection.
 
 ### Fixes
 
