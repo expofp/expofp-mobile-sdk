@@ -4,6 +4,17 @@ title: Changelog
 parent: Android SDK
 nav_order: 99
 ---
+
+# 4.2.3 (2023-08-03)
+
+### Improvements
+
+* Added the ability to specify the path to the archive with the offline version of the plan to the init() method. The data archive will be   loaded if the Internet connection is poor or absent.
+
+### Fixes
+
+* Fixed a potential vulnerability in the Helper.unzip() method.
+
 # 4.2.1 (2023-07-21)
 
 ### Improvements
