@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.2.4 (2023-08-06)
+
+### Improvements
+
+* Added the ability to specify the path to the archive with the offline version of the plan to the load() method. This archive will be       loaded in case of poor or no internet connection.
+
 # 4.2.1 (2023-07-21)
 
 ### Improvements
