@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.2.4 (2023-08-10)
+
+### Fixes
+
+* Fixed bug in com.expofp.crowdconnected package.
+
 # 4.2.3 (2023-08-03)
 
 ### Improvements
