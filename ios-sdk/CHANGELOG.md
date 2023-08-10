@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.2.5 (2023-08-10)
+
+### Fixes
+
+* Fixed bug in ExpoFpCrowdConnected package.
+
 # 4.2.4 (2023-08-06)
 
 ### Improvements
