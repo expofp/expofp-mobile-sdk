@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.2.5 (2023-08-29)
+
+### Improvements
+
+* In this version, the functionality responsible for caching has been improved.
+
 # 4.2.4 (2023-08-10)
 
 ### Fixes
