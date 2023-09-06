@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.2.6 (2023-09-06)
+
+### Improvements
+
+* The package from CrowdConnected has been updated to version 1.6.0.
+
 # 4.2.5 (2023-08-10)
 
 ### Fixes
