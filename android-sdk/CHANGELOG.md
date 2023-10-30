@@ -4,6 +4,11 @@ title: Changelog
 parent: Android SDK
 nav_order: 99
 ---
+# 4.2.10 (2023-10-30)
+
+### Fixes
+
+* Fixed bug in com.expofp.fplan package.
 
 # 4.2.7 (2023-10-08)
 
