@@ -6,9 +6,17 @@ nav_order: 99
 ---
 # 4.2.10 (2023-10-30)
 
+### Features
+
+* Added 'allowConsent' parameter to the Settings.
+
 ### Fixes
 
 * Fixed bug in com.expofp.fplan package.
+
+### Improvements
+
+* In the CrowdConnected package, calling the startNavigation() function in GPS_ONLY mode when working in the background. This function increases the frequency of coordinates update.
 
 # 4.2.7 (2023-10-08)
 
