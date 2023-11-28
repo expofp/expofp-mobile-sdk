@@ -4,6 +4,13 @@ title: Changelog
 parent: Android SDK
 nav_order: 99
 ---
+
+# 4.2.11 (2023-11-11)
+
+### Fixes
+
+* Validation of URL was added.
+
 # 4.2.10 (2023-10-30)
 
 ### Features
