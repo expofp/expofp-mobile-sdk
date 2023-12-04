@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.2.12 (2023-12-04)
+
+### Improvements
+
+* CrowdConnected packages have been updated to version 1.3.6.
+
 # 4.2.11 (2023-11-11)
 
 ### Fixes
