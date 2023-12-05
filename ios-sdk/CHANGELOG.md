@@ -5,6 +5,18 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.2.18 (2023-12-05)
+
+### Improvements
+
+* The ability to download packages from SPM has been added.
+
+# 4.2.11 (2023-11-26)
+
+### Improvements
+
+* Validation of URLs of plan addresses was added.
+
 # 4.2.10 (2023-10-30)
 
 ### Features
