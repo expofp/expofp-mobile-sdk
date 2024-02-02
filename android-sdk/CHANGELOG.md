@@ -9,9 +9,9 @@ nav_order: 99
 
 ### Features
 
-* Added 'FplanView.exhibitorsList' method.
-* Added 'FplanView.categoriesList' method.
-* Added 'FplanView.boothsList' method.
+* Added 'exhibitorsList' method.
+* Added 'categoriesList' method.
+* Added 'boothsList' method.
 
 # 4.2.12 (2023-12-04)
 
