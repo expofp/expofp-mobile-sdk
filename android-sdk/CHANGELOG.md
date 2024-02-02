@@ -5,6 +5,14 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.2.13 (2024-01-31)
+
+### Features
+
+* Added 'FplanView.exhibitorsList' method.
+* Added 'FplanView.categoriesList' method.
+* Added 'FplanView.boothsList' method.
+
 # 4.2.12 (2023-12-04)
 
 ### Improvements
