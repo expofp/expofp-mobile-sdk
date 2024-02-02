@@ -5,6 +5,14 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.2.19 (2024-01-31)
+
+### Features
+
+* Added 'FplanView.exhibitorsList' method.
+* Added 'FplanView.categoriesList' method.
+* Added 'FplanView.boothsList' method.
+
 # 4.2.18 (2023-12-05)
 
 ### Improvements
