@@ -5,6 +5,16 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.2.14 (2024-02-12)
+
+### Features
+
+* ExpoFpCrowdConnected package: 'enableNavigation' parametr added to Settings.
+
+### Fixes
+
+* ExpoFpFplan package: The functionality of checking the Internet connection has been redesigned.
+
 # 4.2.13 (2024-01-31)
 
 ### Features
