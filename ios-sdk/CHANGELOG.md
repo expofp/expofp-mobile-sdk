@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.2.20 (2024-02-12)
+
+### Features
+
+* ExpoFpCrowdConnected package: 'enableNavigation' parametr added to Settings.
+
 # 4.2.19 (2024-01-31)
 
 ### Features
