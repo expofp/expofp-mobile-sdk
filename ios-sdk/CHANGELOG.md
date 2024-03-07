@@ -5,6 +5,17 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.3.1 (2024-03-07)
+
+### Features
+
+* ExpoFpFplan package: Extend 'onDirection' callback - 'Line', 'Point' parameters was added to 'Route'.
+* ExpoFpFplan package: Extend 'onBoothClick' callback - 'externalId(String)' parameter was added.
+* ExpoFpFplan package: Extend 'onDetails' callback - 'boothsNames(String[])' parameter was added to 'Details'.
+* ExpoFpFplan package: 'onBookmarkClick' callback was added.
+* ExpoFpFplan package: 'setBookmarks()' function was added.
+* ExpoFpFplan package: 'updateLayerVisibility()' function was added.
+
 # 4.2.20 (2024-02-12)
 
 ### Features
