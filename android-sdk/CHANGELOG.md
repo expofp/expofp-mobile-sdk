@@ -16,6 +16,10 @@ nav_order: 99
 * ExpoFpFplan package: 'setBookmarks()' function was added.
 * ExpoFpFplan package: 'updateLayerVisibility()' function was added.
 
+### BREAKING CHANGES
+
+* Settings, Configuration, Details, Exhibitor, FloorPlanCustomButtonEvent, Route, RouteBooth, RouteLine, RoutePoint moved to package 'com.expofp.fplan.models'
+
 # 4.2.14 (2024-02-12)
 
 ### Features
