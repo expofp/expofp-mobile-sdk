@@ -10,7 +10,7 @@ nav_order: 99
 ### BREAKING CHANGES
 
 * ExpoFpFplan package: 'onDirection' callback - 'RouteBooth' was renamed to 'FloorPlanBoothBase'.
-* ExpoFpFplan package: 'onBoothClick' callback - 'FloorPlanBoothBase' parameter was added.
+* ExpoFpFplan package: 'onBoothClick' callback - all parameters have been changed to 'FloorPlanBoothBase' parameter.
 * ExpoFpFplan package: 'boothsList' method - 'Booth' was renamed to 'FloorPlanBooth'.
 
 # 4.3.1 (2024-03-01)
