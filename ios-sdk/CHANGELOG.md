@@ -5,6 +5,14 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.4.1 (2024-04-08)
+
+### BREAKING CHANGES
+
+* ExpoFpFplan package: 'onBoothClick' callback - all parameters have been changed to 'floorPlanBoothBase(FloorPlanBoothBase)' parameter.
+* ExpoFpFplan package: 'onDirection' callback - 'RouteBooth' parameters was renamed to 'FloorPlanBoothBase'.
+* ExpoFpFplan package: 'boothsList' method - 'Booth' parameters was renamed to 'FloorPlanBooth'.
+
 # 4.3.1 (2024-03-07)
 
 ### Features
