@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.4.4 (2024-05-01)
+
+### Features
+
+* Privacy manifest file was updated.
+
 # 4.4.2 (2024-04-18)
 
 ### Features
