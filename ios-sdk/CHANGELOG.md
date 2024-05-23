@@ -4,6 +4,11 @@ title: Changelog
 parent: iOS SDK
 nav_order: 199
 ---
+# 4.4.5 (2024-05-23)
+
+### Features
+
+* ExpoFpFplan package: a public constructor has been added to the Bookmark structure.
 
 # 4.4.4 (2024-05-01)
 
