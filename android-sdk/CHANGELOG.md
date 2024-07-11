@@ -4,6 +4,13 @@ title: Changelog
 parent: Android SDK
 nav_order: 99
 ---
+# 4.5.0 (2024-07-01)
+
+### Improvements
+
+* CrowdConnected packages have been updated to version 1.5.2.
+* The target Android Api(targetSdk) version has been changed to 34.
+
 # 4.4.3 (2024-05-01)
 
 ### Improvements
