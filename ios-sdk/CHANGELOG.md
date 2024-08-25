@@ -4,6 +4,19 @@ title: Changelog
 parent: iOS SDK
 nav_order: 199
 ---
+
+# 4.5.2 (2024-08-20)
+
+### Features
+
+* ExpoFpFplan package: 'selectCategory()' function was added.
+* ExpoFpFplan package: The ability to specify a point(SelectRoutePoint class) as a starting point or destination point in the 'selectRoute()' function has been added.
+* ExpoFpFplan package: 'getVisibility()' and 'setVisibility()' functions was added.
+* ExpoFpFplan package: 'findLocation()' function was added.
+* ExpoFpFplan package: 'zoomIn()' and 'zoomOut()' functions was added.
+* ExpoFpFplan package: 'switchView()' function was added.
+* ExpoFpFplan package: 'fitBounds()' function was added.
+
 # 4.4.5 (2024-05-23)
 
 ### Features
