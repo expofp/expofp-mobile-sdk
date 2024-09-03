@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.5.3 (2024-09-03)
+
+### Features
+
+* ExpoFpFplan package: Added the ability to pass a null value to the 'selectCategory' method.
+
 # 4.5.2 (2024-08-20)
 
 ### Features
