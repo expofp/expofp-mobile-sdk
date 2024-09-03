@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.5.3 (2024-09-03)
+
+### Features
+
+* ExpoFpFplan package: Added the ability to pass a nil value to the 'selectCategory' method.
+
 # 4.5.2 (2024-08-20)
 
 ### Features
