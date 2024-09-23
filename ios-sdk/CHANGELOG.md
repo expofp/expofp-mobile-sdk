@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.5.8 (2024-09-23)
+
+### Features
+
+* ExpoFpFplan package: "onCategoryClick" event was added.
+
 # 4.5.3 (2024-09-03)
 
 ### Features
