@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.6.0 (2024-09-23)
+
+### Features
+
+* ExpoFpFplan package: "onCategoryClick" event was added.
+
 # 4.5.3 (2024-09-03)
 
 ### Features
