@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.6.2 (2024-10-01)
+
+### Features
+
+* ExpoFpFplan package: The ability to specify GPS coordinates in the selectRoute method has been added.
+
 # 4.6.0 (2024-09-23)
 
 ### Features
