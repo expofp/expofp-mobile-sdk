@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.5.9 (2024-10-01)
+
+### Features
+
+* ExpoFpFplan package: The ability to specify GPS coordinates in the selectRoute method has been added.
+
 # 4.5.8 (2024-09-23)
 
 ### Features
