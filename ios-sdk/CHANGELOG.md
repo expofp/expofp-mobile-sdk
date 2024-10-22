@@ -5,6 +5,18 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.5.16 (2024-10-22)
+
+### Features
+
+* ExpoFpFplan package: The ability to specify array in the selectExhibitor method has been added.
+
+# 4.5.15 (2024-10-21)
+
+### Fixes
+
+* ExpoFpFplan package: Fix floor index mapping.
+
 # 4.5.9 (2024-10-01)
 
 ### Features
