@@ -9,7 +9,7 @@ nav_order: 199
 
 ### Features
 
-* ExpoFpFplan package: The ability to specify array in the selectExhibitor method has been added.
+* ExpoFpFplan package: The ability to specify an array of IDs in the selectExhibitor method has been added.
 
 # 4.5.15 (2024-10-21)
 
