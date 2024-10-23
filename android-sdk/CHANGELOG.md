@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.6.3 (2024-10-23)
+
+### Features
+
+* ExpoFpFplan package: The ability to specify array in the selectExhibitor method has been added.
+
 # 4.6.2 (2024-10-01)
 
 ### Features
