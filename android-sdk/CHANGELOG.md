@@ -22,10 +22,13 @@ nav_order: 99
 * ExpoFpFplan package: 'openFile()' function has been added.
 * ExpoFpFplan package: 'externalId' parameter was added to the 'setBookmarks()' function.
 * ExpoFpFplan package: 'externalId' parameter was added to the 'onBookmarkClick' callback.
+* CrowdConnected packages have been updated to version 2.0.2.
 
 ### BREAKING CHANGES
 
 * Common package: Parameter 'inBackground' was removed from 'LocationProvider.start()' function.
+* ExpoFpCrowdConnected package: The 'enableNavigation()' method has been removed from 'Settings' class.
+* ExpoFpCrowdConnected package: The 'enableBackgroundMode()' method has been added to 'Settings' class.
 
 # 4.6.3 (2024-10-23)
 
