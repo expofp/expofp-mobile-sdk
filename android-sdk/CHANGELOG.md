@@ -5,6 +5,28 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.8.1 (2024-12-06)
+
+### Improvements
+
+* Common package: The target Android Api(targetSdk) version has been changed to 34.
+* IndoorAtlas package: The target Android Api(targetSdk) version has been changed to 34.
+
+# 4.8.0 (2024-12-06)
+
+### Features
+
+* ExpoFpFplan package: 'onCurrentPositionChanged' callback was added to the 'FplanEventsListener'.
+* ExpoFpFplan package: 'highlightExhibitors()' function has been added.
+* ExpoFpFplan package: 'downloadZipToCache()' function has been added.
+* ExpoFpFplan package: 'openFile()' function has been added.
+* ExpoFpFplan package: 'externalId' parameter was added to the 'setBookmarks()' function.
+* ExpoFpFplan package: 'externalId' parameter was added to the 'onBookmarkClick' callback.
+
+### BREAKING CHANGES
+
+* Common package: Parameter 'inBackground' was removed from 'LocationProvider.start()' function.
+
 # 4.6.3 (2024-10-23)
 
 ### Features
@@ -21,7 +43,7 @@ nav_order: 99
 
 ### Features
 
-* ExpoFpFplan package: "onCategoryClick" event was added.
+* ExpoFpFplan package: "onCategoryClick" event has been added.
 
 # 4.5.3 (2024-09-03)
 
@@ -45,14 +67,14 @@ nav_order: 99
 
 ### Improvements
 
-* CrowdConnected packages have been updated to version 1.5.2.
+* CrowdConnected packages has been updated to version 1.5.2.
 * The target Android Api(targetSdk) version has been changed to 34.
 
 # 4.4.3 (2024-05-01)
 
 ### Improvements
 
-* CrowdConnected packages have been updated to version 1.5.1.
+* CrowdConnected packages has been updated to version 1.5.1.
 
 # 4.4.2 (2024-04-18)
 
@@ -87,7 +109,7 @@ nav_order: 99
 
 ### Features
 
-* ExpoFpCrowdConnected package: 'enableNavigation' parametr added to Settings.
+* ExpoFpCrowdConnected package: 'enableNavigation' parameter added to Settings.
 
 ### Fixes
 
