@@ -5,6 +5,26 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.8.2 (2024-12-15)
+
+### BREAKING CHANGES
+
+* CrowdConnected packages has been been updated to version 2.1.1.
+* Common package: Parameter 'inBackground' was removed from 'LocationProvider.start()' function.
+* ExpoFpCrowdConnected package: The 'enableNavigation' parameter has been removed from 'Settings' class.
+* ExpoFpCrowdConnected package: The 'inBackground' parameter has been added to 'Settings' class.
+
+# 4.7.2 (2024-12-14)
+
+### Features
+
+* ExpoFpFplan package: 'onCurrentPositionChanged' callback has been added.
+* ExpoFpFplan package: 'highlightExhibitors()' function has been added.
+* ExpoFpFplan package: 'downloadZipToCache()' function has been added.
+* ExpoFpFplan package: 'openFile()' function has been added.
+* ExpoFpFplan package: 'externalId' parameter has been added to the 'setBookmarks()' function.
+* ExpoFpFplan package: 'externalId' parameter has been added to the 'onBookmarkClick' callback.
+
 # 4.5.16 (2024-10-22)
 
 ### Features
