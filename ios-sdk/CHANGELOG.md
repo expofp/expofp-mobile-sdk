@@ -5,6 +5,16 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.8.6 (2025-01-17)
+
+### Features
+
+* ExpoFpFplan package: 'search()' function has been added.
+
+### Fixes
+
+* ExpoFpCrowdConnected package: The initialization procedure of the CrowdConnected SDK was changed.
+
 # 4.8.2 (2024-12-15)
 
 ### BREAKING CHANGES
