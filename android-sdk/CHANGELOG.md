@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.9.0 (2025-01-20)
+
+### BREAKING CHANGES
+
+* The com.expofp.crowdconnected package has been split into 2 packages: com.expofp.crowdconnected and com.expofp.crowdconnectedbackground.
+
 # 4.8.1 (2024-12-06)
 
 ### Improvements
