@@ -5,6 +5,16 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.9.3 (2025-02-04)
+
+### Features
+
+* ExpoFpFplan package: SharedFplanView has been added.
+
+### BREAKING CHANGES
+
+* ExpoFpFplan package: The 'init' method has been renamed to 'load'.
+
 # 4.9.0 (2025-01-20)
 
 ### BREAKING CHANGES
