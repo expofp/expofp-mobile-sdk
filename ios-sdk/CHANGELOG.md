@@ -5,6 +5,13 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.8.14 (2025-02-04)
+
+### Features
+
+* ExpoFpFplan package: SharedFplanView(for SwiftUI) has been added.
+* ExpoFpFplan package: SharedUIFplanView(for UIKit) has been added.
+
 # 4.8.6 (2025-01-17)
 
 ### Features
