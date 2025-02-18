@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.8.15 (2025-02-14)
+
+### Features
+
+* ExpoFpFplan package: New methods have been added: 'openFileFromCache', 'getFilePathFromCache', 'getOptimizedRoutes'.
+
 # 4.8.14 (2025-02-04)
 
 ### Features
