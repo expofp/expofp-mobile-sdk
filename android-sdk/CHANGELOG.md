@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.9.4 (2025-02-14)
+
+### Features
+
+* ExpoFpFplan package: New methods have been added: 'openFileFromCache', 'getFilePathFromCache', 'getOptimizedRoutes'.
+
 # 4.9.3 (2025-02-04)
 
 ### Features
