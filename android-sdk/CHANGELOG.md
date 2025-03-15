@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.9.6 (2025-03-14)
+
+### Improvements
+
+* ExpoFpFplan package: Bug fixes and performance improvements.
+
 # 4.9.4 (2025-02-14)
 
 ### Features
