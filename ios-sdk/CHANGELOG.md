@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.8.18 (2025-03-14)
+
+### Improvements
+
+* ExpoFpFplan package: performance improvements.
+
 # 4.8.15 (2025-02-14)
 
 ### Features
