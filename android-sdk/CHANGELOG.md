@@ -5,6 +5,19 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.10.1 (2025-05-10)
+
+### Fixes
+
+* ExpoFpFplan package, AndroidManifest: set 'exported=false' for PermissionRequestActivity.
+* ExpoFpCrowdConnected package, AndroidManifest: set 'exported=false' for PermissionRequestActivity.
+
+# 4.10.0 (2025-04-25)
+
+### Features
+
+* ExpoFpFplan package: OfflinePlanManager has been added.
+
 # 4.9.6 (2025-03-14)
 
 ### Improvements
