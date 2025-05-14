@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.8.22 (2025-05-14)
+
+### Fix
+
+* ExpoFpCrowdConnected package: Dependency on CrowdConnected SDK 1.6.7 for SPM and 1.6.7 for CocoaPods is specified
+
 # 4.8.20 (2025-05-12)
 
 ### Fix
