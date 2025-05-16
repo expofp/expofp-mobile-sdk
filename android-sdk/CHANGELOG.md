@@ -18,6 +18,10 @@ nav_order: 99
 
 * ExpoFpFplan package: OfflinePlanManager has been added.
 
+### Fixes
+
+* ExpoFpFplan package: adapt 'SharedFplanView.destroy()' method to react-native. Android Api function 'ViewGroup.removeView()' does not work correctly in react-native applications
+
 # 4.9.6 (2025-03-14)
 
 ### Improvements
