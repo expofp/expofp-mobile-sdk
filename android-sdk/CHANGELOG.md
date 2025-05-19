@@ -5,6 +5,13 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.10.3 (2025-05-19)
+
+### Fixes
+
+* ExpoFpCrowdConnected packages: have been updated to version 2.0.3.
+* ExpoFpFplan package: fix bug in 'Helper.getEventId()' function.
+
 # 4.10.1 (2025-05-10)
 
 ### Fixes
