@@ -5,6 +5,12 @@ parent: Android SDK
 nav_order: 99
 ---
 
+# 4.10.4 (2025-05-30)
+
+### Fixes
+
+* ExpoFpFplan package: fix bug in 'openFile' function.
+
 # 4.10.3 (2025-05-19)
 
 ### Fixes
