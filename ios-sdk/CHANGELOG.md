@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.9.1 (2025-06-02)
+
+### Features
+
+* ExpoFpFplan package: Added `ExpoFpOfflinePlanInfoLoader` to download and save plans in the cache directory for later use without internet.
+
 # 4.8.22 (2025-05-14)
 
 ### Fix
