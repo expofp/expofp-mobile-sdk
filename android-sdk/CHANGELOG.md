@@ -5,7 +5,7 @@ parent: Android SDK
 nav_order: 99
 ---
 
-# 4.10.4 (2025-05-30)
+# 4.10.5 (2025-06-01)
 
 ### Fixes
 
