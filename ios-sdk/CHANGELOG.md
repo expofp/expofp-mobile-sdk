@@ -5,6 +5,12 @@ parent: iOS SDK
 nav_order: 199
 ---
 
+# 4.9.2 (2025-07-30)
+
+### Features
+
+* ExpoFpFplan package: Added `highlightBooths`, `setOnCurrentFloorChangedCallback`, `getFloors`, `activateFloor` methods.
+
 # 4.9.1 (2025-06-02)
 
 ### Features
